@@ -1,5 +1,0 @@
-require 'sinatra'
-gets '/' do
-	'hello world'
-end
-
